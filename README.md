@@ -1,3 +1,3 @@
 # elderStudiosScrabble
 
-[Hosted App](elderstudiosscrabble.yarbsemaj.com)
+[Hosted App](http://elderstudiosscrabble.yarbsemaj.com)
